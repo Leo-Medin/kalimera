@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "charge serve source"
+  },
+  "devDependencies": {
+    "@static/charge": "^1.7.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "feather-icons": "^4.28.0",
+    "modern-normalize": "^1.0.0",
+    "webfontloader": "^1.6.28"
+  },
+  "browserslist": [
+    ">0.50%",
+    "not ie 11",
+    "not op_mini all"
+  ]
+}
